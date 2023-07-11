@@ -32,7 +32,6 @@
     <li>HTML</li>
     <li>JS</li>
     <li>CSS</li>
-    <li>Python</li>
     <li>Azure, AWS, Git</li>
   </ul>
 </nav>
